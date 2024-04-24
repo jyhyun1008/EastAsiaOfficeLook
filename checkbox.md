@@ -145,8 +145,8 @@
 
 | 구분 | black | white |
 |-|-|-|
-| 0 | 0_black | 0_white |
-| 1 | ~~1_black~~ | ~~1_white~~ |
+| 0 | ~~0_black~~ | ~~0_white~~ |
+| 1 | 1_black | 1_white |
 | 2 | 2_black | 2_white |
 | 3 | 3_black | 3_white |
 | 4 | 4_black | 4_white |
@@ -162,7 +162,7 @@
 
 | 구분 | white | navyblack | greenblack | red | blue | green | purple | pink | reddishbrown | greenishbrown | bluegray | parrot | orange |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| 0 | 0_white | 0_navyblack | 0_greenblack | 0_red | 0_blue | 0_green | 0_purple | 0_pink | 0_reddishbrown | 0_greenishbrown | 0_bluegray | 0_parrot | 0_orange |
+| 0 | 0_white | 0_navyblack | 0_greenblack | 0_red | 0_blue | 0_green | 0_purple | ~~0_pink~~ | 0_reddishbrown | 0_greenishbrown | 0_bluegray | 0_parrot | 0_orange |
 | 1 | 1_white | 1_navyblack | 1_greenblack | 1_red | 1_blue | 1_green | 1_purple | 1_pink | 1_reddishbrown | 1_greenishbrown | 1_bluegray | 1_parrot | 1_orange |
 | 2 | 2_white | 2_navyblack | 2_greenblack | 2_red | 2_blue | 2_green | 2_purple | 2_pink | 2_reddishbrown | 2_greenishbrown | 2_bluegray | 2_parrot | 2_orange |
 
