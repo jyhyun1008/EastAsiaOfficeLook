@@ -2,7 +2,7 @@
 
 | 구분 | creme | peach | camel | gray |
 |-|-|-|-|-|
-| 0 | ~~0_creme~~ | 0_peach | 0_camel | 0_gray |
+| 0 | ~~0_creme~~ | ~~0_peach~~ | ~~0_camel~~ | ~~0_gray~~ |
 
 # 2. 눈
 
@@ -107,7 +107,7 @@
 
 | 구분 | black | gray | brown | green | kotori | blond | white | red | lime | green | blue | purple | pink | sky |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| 0 | 0_black | 0_gray | 0_brown | 0_green | 0_kotori | 0_blond | 0_white | 0_red | 0_lime | 0_green | 0_blue | 0_purple | 0_pink | 0_sky |
+| 0 | 0_black | 0_gray | 0_brown | 0_green | 0_kotori | ~~0_blond~~ | 0_white | 0_red | 0_lime | 0_green | ~~0_blue~~ | 0_purple | 0_pink | 0_sky |
 | 1 | 1_black | 1_gray | 1_brown | 1_green | 1_kotori | 1_blond | 1_white | 1_red | 1_lime | 1_green | 1_blue | 1_purple | 1_pink | 1_sky |
 | 2 | 2_black | 2_gray | 2_brown | 2_green | 2_kotori | 2_blond | 2_white | 2_red | 2_lime | 2_green | 2_blue | 2_purple | 2_pink | 2_sky |
 | 3 | 3_black | 3_gray | 3_brown | 3_green | 3_kotori | 3_blond | 3_white | 3_red | 3_lime | 3_green | 3_blue | 3_purple | 3_pink | 3_sky |
@@ -156,13 +156,13 @@
 | 구분 | white |
 |-|-|
 | 0 | ~~0_white~~ |
-| 1 | 1_white |
+| 1 | ~~1_white~~ |
 
 # 15. 단령
 
 | 구분 | white | navyblack | greenblack | red | blue | green | purple | pink | reddishbrown | greenishbrown | bluegray | parrot | orange |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| 0 | 0_white | 0_navyblack | 0_greenblack | 0_red | 0_blue | 0_green | 0_purple | ~~0_pink~~ | 0_reddishbrown | 0_greenishbrown | 0_bluegray | 0_parrot | 0_orange |
+| 0 | ~~0_white~~ | 0_navyblack | 0_greenblack | 0_red | 0_blue | 0_green | 0_purple | ~~0_pink~~ | 0_reddishbrown | 0_greenishbrown | 0_bluegray | 0_parrot | 0_orange |
 | 1 | 1_white | 1_navyblack | 1_greenblack | 1_red | 1_blue | 1_green | 1_purple | 1_pink | 1_reddishbrown | 1_greenishbrown | 1_bluegray | 1_parrot | 1_orange |
 | 2 | 2_white | 2_navyblack | 2_greenblack | 2_red | 2_blue | 2_green | 2_purple | 2_pink | 2_reddishbrown | 2_greenishbrown | 2_bluegray | 2_parrot | 2_orange |
 
@@ -170,7 +170,7 @@
 
 | 구분 | white | navyblack | greenblack | red | blue | green | purple | pink | reddishbrown | greenishbrown | bluegray | parrot | orange |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| 0 | 0_white | 0_navyblack | 0_greenblack | 0_red | 0_blue | 0_green | 0_purple | 0_pink | 0_reddishbrown | 0_greenishbrown | 0_bluegray | 0_parrot | 0_orange |
+| 0 | ~~0_white~~ | 0_navyblack | 0_greenblack | 0_red | 0_blue | 0_green | 0_purple | 0_pink | 0_reddishbrown | 0_greenishbrown | 0_bluegray | 0_parrot | 0_orange |
 
 # 17. 장식
 
