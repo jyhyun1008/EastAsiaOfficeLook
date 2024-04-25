@@ -1,8 +1,8 @@
 # 1. 베이스
 
-| 구분 | creme | peach | camel |
-|-|-|-|-|
-| 0 | ~~0_creme~~ | 0_peach | 0_camel |
+| 구분 | creme | peach | camel | gray |
+|-|-|-|-|-|
+| 0 | ~~0_creme~~ | 0_peach | 0_camel | 0_gray |
 
 # 2. 눈
 
